@@ -1,0 +1,8 @@
+{
+  "name": "Remix: (禅意八字)2号代码-分裂1（g版）",
+  "description": "A professional Four Pillars of Destiny (BaZi) arrangement tool with AI analysis and client management.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
